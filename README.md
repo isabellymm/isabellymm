@@ -1,8 +1,8 @@
 ### Hi I'm Isabelly 👋
 
 - 🔭 I’m currently studying ADS 
-- 🌱 I’m currently learning Java, Spring Boot...
-- 💬 Ask me about back-end development
+- 🌱 I’m currently learning Kotlin, android development...
+- 💬 Ask me about mobile development
 
 ##
 
