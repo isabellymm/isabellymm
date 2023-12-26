@@ -26,5 +26,5 @@
 ![Static Badge](https://img.shields.io/badge/Linkedin-333333?logo=linkedin&logoColor=%230A66C2)
 ![Static Badge](https://img.shields.io/badge/Gmail-333333?logo=gmail&link=isabellymartinsmota6%40gmail.com)
 
-[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](LINK-DO-SEU-LINKEDIN)
+[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/isabelly-martins-mota-060365229/)](https://www.linkedin.com/in/isabelly-martins-mota-060365229/)
 [![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:SEU-EMAIL)
