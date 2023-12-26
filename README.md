@@ -2,7 +2,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Isabelly Martins, estudante de Análise e Desenvolvimento de Sistemas (ADS) no segundo ano, com experiência em backend. 
+  Me chamo isabelly, estudante de Análise e Desenvolvimento de Sistemas (ADS) no segundo ano, com experiência em backend. 
   Busco constantemente aprimorar minhas habilidades para contribuir de forma significativa em projetos desafiadores.
 </p>
 
@@ -23,8 +23,5 @@
 
 **Contato**
 
-![Static Badge](https://img.shields.io/badge/Linkedin-333333?logo=linkedin&logoColor=%230A66C2)
-![Static Badge](https://img.shields.io/badge/Gmail-333333?logo=gmail&link=isabellymartinsmota6%40gmail.com)
-
-[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/isabelly-martins-mota-060365229/)](https://www.linkedin.com/in/isabelly-martins-mota-060365229/)
-[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:SEU-EMAIL)
+[![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/isabelly-martins-mota-060365229/)](https://www.linkedin.com/in/isabelly-martins-mota-060365229/)
+[![Gmail Badge](https://img.shields.io/badge/-isabellymartinsmota6@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:isabellymartinsmota6@gmail.com)](mailto:isabellymartinsmota6@gmail.com)
