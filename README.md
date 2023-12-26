@@ -1,21 +1,23 @@
-### Hi I'm Isabelly 👋
+### Hi, I'm Isabelly 👋
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-- 🔭 I’m currently studying ADS 
-- 🌱 I’m currently learning Kotlin, android development...
-- 💬 Ask me about mobile development
+<p align="left"> 
+  Isabelly Martins, estudante de Análise e Desenvolvimento de Sistemas (ADS) no segundo ano, com experiência em backend. 
+  Busco constantemente aprimorar minhas habilidades para contribuir de forma significativa em projetos desafiadores.
+</p>
 
-##
+<h3>Minhas Skills</h3>
 
-<div align="center">
-  <a href="https://github.com/isabellymm">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=isabellymm&show_icons=true&theme=blueberry&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabellymm&layout=compact&langs_count=7&theme=blueberry"/>
-</div>
+**Aplicações e dados**
 
-##
+![TypeScript](https://img.shields.io/badge/TypeScript-logoColor%3D%233178C6?style=flat&logo=typescript&color=%23333333)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+![MongoDb](https://img.shields.io/badge/Mongodb-logoColor%3D%233178C6?style=flat&logo=mongodb&color=%23333333)
+</p>
 
-<div>
-   <a href = "mailto:isabellymartinsmota6@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-   <a href="https://www.linkedin.com/in/isabelly-martins-mota-060365229/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://github.com/isabellymm" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a> 
-</div>
+<h3>Contato</h3>
