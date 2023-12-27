@@ -17,6 +17,8 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 ![MongoDb](https://img.shields.io/badge/Mongodb-logoColor%3D%233178C6?style=flat&logo=mongodb&color=%23333333)
 ![Git](https://img.shields.io/badge/Git-333333?logo=git&color=%23333333)
+![MicrosoftAzure](https://img.shields.io/badge/MicrosoftAzure-333333?logo=microsoftazure)
+
 
 </p>
 
